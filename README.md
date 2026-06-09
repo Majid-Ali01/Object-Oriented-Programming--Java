@@ -113,8 +113,7 @@ QuizApp/
 
 ### 1 Clone repository
 
-```bash
-git clone <your-repo-link>
+```https://github.com/Majid-Ali01/java_file
 ```
 
 ### 2 Open project in IDE
