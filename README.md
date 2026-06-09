@@ -112,8 +112,7 @@ QuizApp/
 ## Installation
 
 ### 1 Clone repository
-
-```https://github.com/Majid-Ali01/java_file
+https://github.com/Majid-Ali01/java_file
 ```
 
 ### 2 Open project in IDE
