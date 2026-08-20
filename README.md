@@ -1,150 +1,194 @@
-::: {align="center"}
+# ☕ Java Lab Collection
 
-☕ Java Lab Collection
+<div align="center">
 
-🚀 From Java Fundamentals to Object-Oriented Programming
+### 🚀 From Java Fundamentals to Object-Oriented Programming
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F89820&center=true&vCenter=true&width=800&lines=Learn+Java+Through+Hands-On+Labs;Master+OOP+Step+by+Step;Encapsulation+%E2%80%A2+Inheritance+%E2%80%A2+Interfaces;Association+%E2%80%A2+Aggregation+%E2%80%A2+Composition" alt="Typing animation" />{=html}
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F89820&center=true&vCenter=true&width=800&lines=Learn+Java+Through+Hands-On+Labs;Master+OOP+Step+by+Step;Encapsulation+%E2%80%A2+Inheritance+%E2%80%A2+Interfaces;Association+%E2%80%A2+Aggregation+%E2%80%A2+Composition" alt="Typing animation" />
 
-<br>{=html}
+<br><br>
 
-<img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white" />{=html}
-<img src="https://img.shields.io/badge/Focus-OOP-blueviolet?style=for-the-badge&logo=java&logoColor=white" />{=html}
-<img src="https://img.shields.io/badge/Labs-10-success?style=for-the-badge&logo=bookstack&logoColor=white" />{=html}
-<img src="https://img.shields.io/badge/Level-Beginner%20→%20Intermediate-00b4d8?style=for-the-badge" />{=html}
-:::
+<img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Focus-OOP-blueviolet?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Labs-10-success?style=for-the-badge&logo=bookstack&logoColor=white">
+<img src="https://img.shields.io/badge/Level-Beginner%20%E2%86%92%20Intermediate-00b4d8?style=for-the-badge">
 
-✨ About This Repository
+<br><br>
 
-Welcome to my Java Lab Collection --- a structured set of practical
-laboratory exercises designed to build strong Java and Object-Oriented
-Programming fundamentals through hands-on practice.
+<img src="https://skillicons.dev/icons?i=java,idea,git,github" alt="Java Tech Stack">
 
-💡 Learn the concept → write the code → practice the problem → build
-confidence.
+</div>
 
-This repository contains lab work covering classes, objects, instance
-methods, encapsulation, relationships between classes, inheritance, and
-interfaces.
+---
 
-🧭 Learning Roadmap
+## ✨ About This Repository
 
-Java Basics
-    │
-    ▼
-Objects & Classes
-    │
-    ▼
-Instance Methods
-    │
-    ▼
-Encapsulation
-    │
-    ▼
-Association / Aggregation / Composition
-    │
-    ▼
-Inheritance
-    │
-    ▼
-Interfaces
-    │
-    ▼
-🚀 Strong OOP Foundation
+Welcome to my **Java Lab Collection** — a structured set of practical laboratory exercises designed to build strong **Java and Object-Oriented Programming fundamentals** through hands-on practice.
 
-📚 Lab Collection
+> 💡 **Learn the concept → Write the code → Practice the problem → Build confidence.**
 
-           \#              Lab File                        Main Topic
+This repository contains practical lab work covering:
 
-       🟣 **01**           `Java Lab2.docx`                Java Lab 2
+* 🧱 Classes & Objects
+* ⚙️ Instance Methods
+* 🔐 Encapsulation
+* 🔗 Association
+* 🧩 Aggregation
+* 🏗️ Composition
+* 🧬 Inheritance
+* 🔌 Interfaces
 
-       🔵 **02**           `Majid Ali java (lab1).docx`    Java Lab 1
+---
 
-       🟢 **03**           `Majid Ali java lab3.docx`      Objects, Instance
-                                                           Methods &
-                                                           Encapsulation
+## 🧭 Learning Roadmap
 
-       🟡 **04**           `Majid Ali java lab4.docx`      Encapsulation
-                                                           Practice Problems
+<div align="center">
 
-       🟠 **05**           `Majid ali java (lab10).docx`   Inheritance ---
-                                                           Three-Class
-                                                           Hierarchies
+```text
+                    ☕ JAVA
+                      │
+                      ▼
+              📘 Java Fundamentals
+                      │
+                      ▼
+               🧱 Classes & Objects
+                      │
+                      ▼
+              ⚙️ Instance Methods
+                      │
+                      ▼
+                🔐 Encapsulation
+                      │
+                      ▼
+       🔗 Association / Aggregation / Composition
+                      │
+                      ▼
+                🧬 Inheritance
+                      │
+                      ▼
+                 🔌 Interfaces
+                      │
+                      ▼
+              🚀 Strong OOP Foundation
+```
 
-       🟢 **06**           `Majid ali java (lab12).docx`   Interfaces
+</div>
 
-       🔷 **07**           `Majid ali java (lab7).docx`    Practice with Lab 7
+---
 
-       🟣 **08**           `Majid ali java (lab8).docx`    Association,
-                                                           Aggregation &
-                                                           Composition
+## 📚 Lab Collection
 
-       🔴 **09**           `Majid ali java (lab9).docx`    Inheritance --- Is-a
-                                                           Relationship
+|     #     | 📄 Lab File                   | 🎯 Main Topic                             |
+| :-------: | ----------------------------- | ----------------------------------------- |
+| 🟣 **01** | `Java Lab2.docx`              | Java Lab 2                                |
+| 🔵 **02** | `Majid Ali java (lab1).docx`  | Java Lab 1                                |
+| 🟢 **03** | `Majid Ali java lab3.docx`    | Objects, Instance Methods & Encapsulation |
+| 🟡 **04** | `Majid Ali java lab4.docx`    | Encapsulation Practice Problems           |
+| 🟠 **05** | `Majid ali java (lab10).docx` | Inheritance — Three-Class Hierarchies     |
+| 🟢 **06** | `Majid ali java (lab12).docx` | Interfaces                                |
+| 🔷 **07** | `Majid ali java (lab7).docx`  | Practice with Lab 7                       |
+| 🟣 **08** | `Majid ali java (lab8).docx`  | Association, Aggregation & Composition    |
+| 🔴 **09** | `Majid ali java (lab9).docx`  | Inheritance — Is-a Relationship           |
+| 🟠 **10** | `Majid ali java lab6.docx`    | Java Lab 6                                |
 
-       🟠 **10**           `Majid ali java lab6.docx`      Java Lab 6
+> 📌 **Tip:** Keep the lab numbering and filenames unchanged when uploading the documents so the collection stays organized.
 
-📌 Tip: Keep the lab numbering and filenames unchanged when
-uploading the documents so the collection stays organized.
+---
 
-🧠 Concepts Covered
+## 🧠 OOP Concepts Covered
 
-::: {align="center"}
-🔐 Encapsulation       🧬 Inheritance      🔌 Interfaces
+<div align="center">
 
-  Data hiding       Is-a relationship      Abstraction
+|  🔐 Encapsulation |     🧬 Inheritance     |  🔌 Interfaces |
+| :---------------: | :--------------------: | :------------: |
+|    Data Hiding    |    Is-a Relationship   |   Abstraction  |
+|  Access Modifiers |       Code Reuse       |    Contracts   |
+| Getters & Setters | Parent / Child Classes | Implementation |
 
-Access modifiers         Code reuse          Contracts
-Getters & setters   Parent/child classes   Implementation
+<br>
 
-  🔗 Association         🧩 Aggregation         🏗️ Composition
+|    🔗 Association    |     🧩 Aggregation    |   🏗️ Composition   |
+| :------------------: | :-------------------: | :-----------------: |
+| Object Relationships |     Weak Ownership    |   Strong Ownership  |
+|  Has-a Relationship  | Independent Lifecycle | Dependent Lifecycle |
 
-Object relationships      Weak ownership        Strong ownership
-Has-a relationship    Independent lifecycle   Dependent lifecycle
-:::
+</div>
 
-⚡ What You'll Practice
+---
 
-🧱 Creating classes and objects
+## ⚡ What You'll Practice
 
-⚙️ Working with instance methods
+<div align="center">
 
-🔐 Applying encapsulation
+| 💻 Skill             | 📌 Focus                            |
+| -------------------- | ----------------------------------- |
+| 🧱 Classes & Objects | Creating reusable Java classes      |
+| ⚙️ Instance Methods  | Defining object behavior            |
+| 🔐 Encapsulation     | Data hiding & access control        |
+| 🔗 Association       | Connecting objects                  |
+| 🧩 Aggregation       | Modeling weak ownership             |
+| 🏗️ Composition      | Modeling strong ownership           |
+| 🧬 Inheritance       | Reusing parent class functionality  |
+| 🔌 Interfaces        | Implementing abstraction            |
+| 🧠 OOP Design        | Thinking in objects & relationships |
 
-🔗 Modeling object relationships
+</div>
 
-🧬 Building inheritance hierarchies
+---
 
-🔌 Designing and implementing interfaces
+## 🛠️ Tech Stack
 
-🧩 Understanding Association, Aggregation & Composition
+<div align="center">
 
-💻 Solving practical Java programming problems
+<img src="https://skillicons.dev/icons?i=java,idea,git,github" alt="Technology Stack">
 
-🧠 Strengthening object-oriented thinking
+<br><br>
 
-🛠️ Tech Stack
+<img src="https://img.shields.io/badge/Java-Programming%20Language-orange?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-7B2CBF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 
-::: {align="center"}
-<img src="https://skillicons.dev/icons?i=java,idea,git,github" />{=html}
-:::
+</div>
 
-Primary Language: Java
-Programming Paradigm: Object-Oriented Programming
-Recommended IDE: IntelliJ IDEA / NetBeans / Eclipse
-Repository Platform: GitHub
+### 🔧 Development Environment
 
-📊 Repository Snapshot
+* ☕ **Language:** Java
+* 🧠 **Paradigm:** Object-Oriented Programming
+* 💻 **IDE:** Sublime Text
+* 🌐 **Platform:** GitHub
+* 🔧 **Version Control:** Git
 
-::: {align="center"}
-<img src="https://img.shields.io/badge/Java%20Labs-10-F89820?style=for-the-badge&logo=openjdk&logoColor=white" />{=html}
-<img src="https://img.shields.io/badge/OOP%20Topics-7+-7B2CBF?style=for-the-badge&logo=java&logoColor=white" />{=html}
-<img src="https://img.shields.io/badge/Hands--On-Practice-00B4D8?style=for-the-badge&logo=codeforces&logoColor=white" />{=html}
-<img src="https://img.shields.io/badge/Status-Active-2EA44F?style=for-the-badge&logo=github&logoColor=white" />{=html}
-:::
+---
 
-🎯 Learning Goals
+## 📊 Repository Snapshot
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java%20Labs-10-F89820?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/OOP%20Topics-7+-7B2CBF?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Hands--On-Practice-00B4D8?style=for-the-badge&logo=codeforces&logoColor=white">
+<img src="https://img.shields.io/badge/Status-Active-2EA44F?style=for-the-badge&logo=github&logoColor=white">
+
+<br><br>
+
+### 📈 Learning Progress
+
+<img src="https://progress-bar.dev/90/?title=Java%20Fundamentals&width=500&color=orange">
+<br>
+<img src="https://progress-bar.dev/85/?title=Encapsulation&width=500&color=blueviolet">
+<br>
+<img src="https://progress-bar.dev/80/?title=Inheritance&width=500&color=blue">
+<br>
+<img src="https://progress-bar.dev/75/?title=Interfaces&width=500&color=green">
+
+</div>
+
+---
+
+## 🎯 Learning Goals
+
+```java
 public class JavaJourney {
 
     public static void main(String[] args) {
@@ -164,54 +208,107 @@ public class JavaJourney {
         System.out.println("\n🚀 Keep Coding. Keep Learning.");
     }
 }
+```
 
-🌟 Why This Repository?
+---
 
-This is more than a collection of lab files.
+## 🌟 Why This Repository?
 
-It represents a practical journey from basic Java programming toward a
-solid understanding of Object-Oriented Design.
+> 🚀 **This is more than a collection of lab files.**
 
-Each lab is intended to reinforce concepts through examples and practice
-rather than memorization.
+It represents a practical journey from **Java fundamentals** toward a solid understanding of **Object-Oriented Design**.
 
-📈 Progress Path
+Each lab focuses on understanding concepts through **implementation and practice**, rather than simply memorizing theory.
 
-████████████████████████████████████████  Java Foundation
-██████████████████████████████████████░░  Encapsulation
-████████████████████████████████████░░░░  Class Relationships
-██████████████████████████████████░░░░░░  Inheritance
-████████████████████████████████░░░░░░░░  Interfaces
+### 💎 The Learning Philosophy
 
-👨‍💻 Author
+```text
+       📖 LEARN
+          ↓
+       🧠 UNDERSTAND
+          ↓
+       💻 CODE
+          ↓
+       🧪 PRACTICE
+          ↓
+       🔍 DEBUG
+          ↓
+       🚀 IMPROVE
+```
 
-::: {align="center"}
+---
 
-Majid Ali
+## 🔥 Key Highlights
 
-Software Engineering Student • Java Developer • OOP Learner
+<div align="center">
 
-<a href="https://github.com/Majid-Ali01">{=html}
-<img src="https://img.shields.io/badge/GitHub-Majid--Ali01-181717?style=for-the-badge&logo=github" />{=html}
-</a>{=html}
+### 🧱 Strong Fundamentals
 
-<br>{=html}<br>{=html}
+Build a solid foundation in Java programming.
 
-<img src="https://komarev.com/ghpvc/?username=Majid-Ali01&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />{=html}
-:::
+### 🔐 Clean OOP Concepts
 
-⭐ Support
+Understand encapsulation, inheritance and interfaces.
 
-If this repository helps you learn Java or OOP:
+### 🔗 Object Relationships
 
-⭐ Star the repository
-🍴 Fork it for your own practice
-💬 Share your feedback
-🚀 Keep building projects
+Learn Association, Aggregation and Composition.
 
-::: {align="center"}
+### 💻 Hands-On Learning
 
-☕ Code • Learn • Practice • Build • Repeat
+Every concept is reinforced through practical exercises.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />{=html}
-:::
+### 🚀 Continuous Improvement
+
+Progress from beginner concepts toward stronger OOP design.
+
+</div>
+
+---
+
+## 👨‍💻 Author
+
+<div align="center">
+
+# **Majid Ali**
+
+### 💻 Software Engineering Student | ☕ Java Developer | 🧠 OOP Learner
+
+<br>
+
+<a href="https://github.com/Majid-Ali01">
+<img src="https://img.shields.io/badge/GitHub-Majid--Ali01-181717?style=for-the-badge&logo=github">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Majid-Ali01&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS">
+
+<br><br>
+
+> **"Code. Learn. Build. Repeat."** 🚀
+
+</div>
+
+---
+
+## ⭐ Support This Repository
+
+If this repository helps you learn **Java or OOP**, consider supporting it:
+
+<div align="center">
+
+⭐ **Star** the repository
+🍴 **Fork** it for practice
+💬 **Share** your feedback
+🚀 **Keep building**
+
+<br>
+
+### ☕ Code • Learn • Practice • Build • Repeat
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer">
+
+</div>
